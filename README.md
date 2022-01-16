@@ -1,3 +1,5 @@
 # Incident Counter
 
-A sample React and Redux application for teacher React and Redux.
+A sample React and Redux application to learn React and Redux.
+
+
